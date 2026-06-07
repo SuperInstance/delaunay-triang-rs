@@ -1,0 +1,13 @@
+[package]
+name = "delaunay-triang-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Delaunay triangulation and Voronoi diagrams in pure Rust: Bowyer-Watson, edge flip, quad-edge"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SuperInstance/delaunay-triang-rs"
+keywords = ["delaunay", "triangulation", "voronoi", "geometry", "algorithm"]
+categories = ["algorithms", "data-structures", "mathematics"]
+authors = ["SuperInstance"]
+readme = "README.md"
+
+[dependencies]
